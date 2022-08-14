@@ -23,8 +23,7 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;
-	margin-left: 30px;}
+	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -2419,9 +2418,9 @@ input, select, textarea {
 
 	ol {
 		list-style: decimal;
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 		padding-left: 1.25em;
-		margin-left: 2em;
+		margin-left: 1em;
 	}
 
 		ol li {
@@ -2430,7 +2429,7 @@ input, select, textarea {
 
 	ul {
 		list-style: disc;
-		margin: 1em 1em 2em 1em;
+		margin: 1em 1em 1em 1em;
 		padding-left: 1.35em;
 	}
 
@@ -2454,7 +2453,7 @@ input, select, textarea {
 				}
 
 	dl {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 		dl dt {
@@ -3339,7 +3338,7 @@ input, select, textarea {
 		background-color: #ffffff;
 		color: #636363;
 		border-radius: 0.25em;
-		margin-left: 20px;
+		margin-left: 10px;
 	}
 
 		#main input, #main select, #main textarea {
