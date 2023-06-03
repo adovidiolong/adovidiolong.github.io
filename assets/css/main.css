@@ -3338,7 +3338,7 @@ input, select, textarea {
 		background-color: #ffffff;
 		color: #636363;
 		border-radius: 0.25em;
-		margin-left: 10px;
+		margin-left: 0px; /*was 10px*/
 	}
 
 		#main input, #main select, #main textarea {
